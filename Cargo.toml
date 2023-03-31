@@ -1,7 +1,14 @@
 [package]
 name = "http_server"
 version = "0.1.0"
+authors = ["Travis Horn <travis@travishorn.com"]
 edition = "2021"
+description = "An extremely basic HTTP server written in Rust."
+documentation = "https://github.com/travishorn/rust_http_server#readme"
+homepage = "https://github.com/travishorn/rust_http_server-faker"
+repository = "https://github.com/travishorn/rust_http_server-faker"
+license = "MIT"
+keywords = ["http", "server"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
